@@ -9,7 +9,7 @@ fields:
   name: title
   label: title
 - type: text
-  name: author
+  name: Worldx24_com
   label: author
 - type: text
   name: copyright
