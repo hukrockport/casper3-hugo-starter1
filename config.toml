@@ -29,9 +29,9 @@ name = "Author Homepage"
 url = "https://jonathanjanssens.com"
 weight = 40
 [params]
-description = "Just a demo site for the Casper3 theme ported to Hugo"
+description = "Wolrd Premium Online Magazine"
 facebook = "https://facebook.com"
-github = "https://github.com/jonathanjanssens"
+github = "https://github.com/hurockport"
 logo = "/images/ghost-transparent.png"
 mainSections = ["post"]
 twitter = "https://twitter.com"
