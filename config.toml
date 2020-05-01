@@ -5,8 +5,8 @@ copyright = "Copyright © 2020, Worldx24.com; All Rights Reserved."
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 languageCode = "en"
-paginate = 3
-theme = "casper3"
+paginate = 5
+theme = "casper1"
 title = "Worldx24"
 [[menu.main]]
 identifier = "about"
