@@ -1,7 +1,7 @@
 DefaultContentLanguage = "en"
 author = "Hukum Negi"
 baseURL = "https://www.worldx24.com"
-copyright = "Copyright © 2020, Worldx24.com; all rights reserved."
+copyright = "Copyright © 2020, Worldx24.com; All Rights Reserved."
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 languageCode = "en"
