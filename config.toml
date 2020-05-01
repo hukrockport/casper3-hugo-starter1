@@ -1,5 +1,5 @@
 DefaultContentLanguage = "en"
-Worldx24_com = ""
+Worldx24_com = "Worldx24"
 author = "Hukum Negi"
 baseURL = "https://www.worldx24.com"
 copyright = "Copyright © 2020, Worldx24.com; All Rights Reserved."
