@@ -30,11 +30,11 @@ url = "https://jonathanjanssens.com"
 weight = 40
 [params]
 description = "Wolrd Premium Online Magazine"
-facebook = "https://facebook.com"
+facebook = "https://facebook.com/wordx24"
 github = "https://github.com/hurockport"
 logo = "/images/ghost-transparent.png"
 mainSections = ["post"]
-twitter = "https://twitter.com"
+twitter = "https://twitter.com/worldx24"
 [privacy.instagram]
 disabled = false
 simple = true
